@@ -1,9 +1,18 @@
 {
   "name": "watchbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Risk assessment and anomaly detection framework",
   "engines": {
     "node": ">= 10.13 <11"
+  },
+  "main": "build/src/main.js",
+  "bugs": {
+    "url": "https://github.com/jesobreira/watchbox/issues"
+  },
+  "homepage": "https://github.com/jesobreira/watchbox#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesobreira/watchbox.git"
   },
   "devDependencies": {
     "@types/jest": "^24.0.18",
